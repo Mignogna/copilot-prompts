@@ -1,6 +1,8 @@
-# 🚀 Desafio - Bootcamp Santander Inteligência Artificial (DIO)
+<img align="right" width="180" height="160" alt="image" src="https://github.com/user-attachments/assets/8d9f92e1-72f8-452b-ad3f-cf1e96c9df3b" />
 
-Este repositório faz parte do **Bootcamp Santander Inteligência Artificial em parceria com a DIO (Digital Innovation One)**.  
+# 🚀 Desafio - Bootcamp CAIXA - Inteligência Artificial (DIO)
+
+Este repositório faz parte do **"Bootcamp CAIXA - Inteligência Artificial na Prática" em parceria com a DIO (Digital Innovation One)**.  
 O objetivo é documentar e compartilhar o desenvolvimento de um **prompt personalizado** que gera um roadmap completo de carreira em tecnologia.
 
 ## 📌 Sobre o Prompt
